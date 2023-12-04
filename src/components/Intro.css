@@ -1,0 +1,51 @@
+h2 {
+    font-family: 'Source Sans Pro',sans-serif;
+    font-size: 22px;
+    letter-spacing: 1px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 5% 10% 0 10%;
+    color: white;  
+}
+
+.container1 {
+    flex-basis: 400px;
+}
+
+.footer {
+    background-color: black;
+    padding-bottom: 1%;
+    padding-top: 0.01%;
+}
+
+.divider {
+    margin: 10vh 10% 0 10%;
+}
+
+.name {
+    text-align: left;
+}
+
+.des {
+    font-size: 15px;
+    text-align: left;
+    font-family: 'Source Sans Pro',sans-serif;
+    margin-top: 2rem;
+    color: #eee;
+    line-height: 1.7;
+}
+
+.social-link-img {
+    height: 30px;
+}
+
+.credit {
+    font-family: 'Source Sans Pro',sans-serif;
+    color: #eee;
+    font-size: 12px;
+}
+
